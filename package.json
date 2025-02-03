@@ -1,6 +1,6 @@
 {
   "name": "@tabler/icons-webfont",
-  "version": "3.29.0-mi.1920+850b35224",
+  "version": "3.29.0-mi.1922+c77f2c6dc",
   "description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects.",
   "homepage": "https://tabler-icons.io",
   "bugs": {
@@ -48,9 +48,6 @@
   "devDependencies": {
     "execa": "^9.5.2",
     "sass": "^1.71.1",
-    "svg2ttf": "^6.0.3",
-    "svgicons2svgfont": "^15.0.0",
-    "ttf2woff": "^3.0.0",
-    "wawoff2": "^2.0.1"
+    "webfont": "^11.2.26"
   }
 }
