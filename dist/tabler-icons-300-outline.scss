@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*!
- * Tabler Icons 3.29.0 by tabler - https://tabler.io
+ * Tabler Icons 3.30.0 by tabler - https://tabler.io
  * License - https://github.com/tabler/tabler-icons/blob/master/LICENSE
  */
 @use "sass:string";
@@ -15,9 +15,9 @@ $ti-prefix: 'ti' !default;
   font-style: normal;
   font-weight: 400;
   font-display: $ti-font-display;
-  src: url('#{$ti-font-path}/tabler-icons-300-outline.woff2?v3.29.0') format('woff2'),
+  src: url('#{$ti-font-path}/tabler-icons-300-outline.woff2?v3.30.0') format('woff2'),
     url('#{$ti-font-path}/tabler-icons-300-outline.woff?') format('woff'),
-    url('#{$ti-font-path}/tabler-icons-300-outline.ttf?v3.29.0') format('truetype');
+    url('#{$ti-font-path}/tabler-icons-300-outline.ttf?v3.30.0') format('truetype');
 }
 
 .#{$ti-prefix} {

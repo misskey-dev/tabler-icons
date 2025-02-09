@@ -1,12 +1,12 @@
 /*!
- * Tabler Icons 3.29.0 by tabler - https://tabler.io
+ * Tabler Icons 3.30.0 by tabler - https://tabler.io
  * License - https://github.com/tabler/tabler-icons/blob/master/LICENSE
  */
 @font-face {
   font-family: "tabler-icons-300-filled";
   font-style: normal;
   font-weight: 400;
-  src: url("./fonts/tabler-icons-300-filled.woff2?v3.29.0") format("woff2"), url("./fonts/tabler-icons-300-filled.woff?") format("woff"), url("./fonts/tabler-icons-300-filled.ttf?v3.29.0") format("truetype");
+  src: url("./fonts/tabler-icons-300-filled.woff2?v3.30.0") format("woff2"), url("./fonts/tabler-icons-300-filled.woff?") format("woff"), url("./fonts/tabler-icons-300-filled.ttf?v3.30.0") format("truetype");
 }
 .ti {
   font-family: "tabler-icons-300-filled" !important;
@@ -1701,6 +1701,10 @@
   content: "\1003d";
 }
 
+.ti-drop-circle:before {
+  content: "\10137";
+}
+
 .ti-droplet:before {
   content: "\ee80";
 }
@@ -1717,12 +1721,24 @@
   content: "\100c9";
 }
 
+.ti-dual-screen:before {
+  content: "\10136";
+}
+
+.ti-dumpling:before {
+  content: "\10135";
+}
+
 .ti-egg:before {
   content: "\f678";
 }
 
 .ti-egg-cracked:before {
   content: "\10012";
+}
+
+.ti-egg-fried:before {
+  content: "\10134";
 }
 
 .ti-elevator:before {
@@ -1733,8 +1749,28 @@
   content: "\100fc";
 }
 
+.ti-escalator:before {
+  content: "\10131";
+}
+
+.ti-escalator-down:before {
+  content: "\10133";
+}
+
+.ti-escalator-up:before {
+  content: "\10132";
+}
+
+.ti-exchange:before {
+  content: "\10130";
+}
+
 .ti-exclamation-circle:before {
   content: "\ff62";
+}
+
+.ti-explicit:before {
+  content: "\1012f";
 }
 
 .ti-exposure:before {
@@ -1785,12 +1821,32 @@
   content: "\f747";
 }
 
+.ti-file-check:before {
+  content: "\1012e";
+}
+
+.ti-file-code-2:before {
+  content: "\1012d";
+}
+
+.ti-file-cv:before {
+  content: "\1012c";
+}
+
+.ti-file-delta:before {
+  content: "\1012b";
+}
+
 .ti-file-description:before {
   content: "\1011e";
 }
 
 .ti-file-digit:before {
   content: "\1011d";
+}
+
+.ti-file-download:before {
+  content: "\1012a";
 }
 
 .ti-file-horizontal:before {
@@ -1801,6 +1857,10 @@
   content: "\1011b";
 }
 
+.ti-file-lambda:before {
+  content: "\10129";
+}
+
 .ti-file-minus:before {
   content: "\1011a";
 }
@@ -1809,8 +1869,20 @@
   content: "\10119";
 }
 
+.ti-file-percent:before {
+  content: "\10128";
+}
+
+.ti-file-phone:before {
+  content: "\10127";
+}
+
 .ti-file-power:before {
   content: "\10118";
+}
+
+.ti-file-rss:before {
+  content: "\10126";
 }
 
 .ti-file-sad:before {
